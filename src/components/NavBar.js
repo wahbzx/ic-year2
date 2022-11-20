@@ -10,9 +10,6 @@ const NavBar = () => {
           <li className='px-10 hover:text-cyan-500 duration-300'>
             <Link to="/">Home</Link>
           </li>
-          <li className='px-10 hover:text-cyan-500 duration-300'>
-            Some Useful Links
-          </li>
           <li>
             <ThemeIcon/>
           </li>

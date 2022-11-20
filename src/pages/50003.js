@@ -171,7 +171,7 @@ const Lectures8 = () => {
             <ListItem text={"Lecture 11 - Register Machines and Register Machine Gadgets - Tuesday 15-11-2022"}/>
             </a>
             <a href="https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6e51038e-fbef-4938-95ad-af1d011235c3" >
-            <ListItem text={"Lecture 12 - Register Machine Gadgets - Tuesday 15-11-2022"}/>
+            <ListItem text={"Lecture 12 - Register Machine Gadgets - Friday 18-11-2022"}/>
             </a>
         </ul>
        
