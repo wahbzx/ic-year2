@@ -1,0 +1,18 @@
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .top-navigation-icon {
+    @apply text-gray-500
+    mr-3 ml-4
+    transition duration-300 ease-in-out 
+    hover:text-yellow-500
+    cursor-pointer;
+  }
+
+  .top-navigation-icon:first {
+    @apply ml-auto mr-4;
+  }
+}
